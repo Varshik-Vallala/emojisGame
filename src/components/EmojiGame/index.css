@@ -1,0 +1,16 @@
+/* Write your code here. */
+
+.emojis-container {
+  background-image: linear-gradient(to bottom right, #9796f0, #fbc7d4);
+  padding: 42px;
+  /* height: 90vh; */
+}
+
+.emojis-list {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  width: 70%;
+  margin: auto;
+}
